@@ -29,7 +29,7 @@ What I want to help with is closing that gap making AI systems reliable enough t
 
 <br>
 
-## Selected Experience
+## Experience
 
 **AI Research Intern · University of Oulu**
 Worked on improving the safety and reliability of large language models identifying failure modes and making model behavior more predictable under distribution shift
